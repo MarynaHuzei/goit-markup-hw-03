@@ -88,9 +88,9 @@ body {
 .menu {
   display: flex;
   gap: 40px;
+  padding: 24px 0;
 }
 .menu-item {
-  padding: 24px 0;
 }
 .list-address {
   display: flex;
@@ -102,6 +102,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--primary-color);
+  padding: 24px 0;
 }
 .menu-link:hover,
 .menu-link:focus {
